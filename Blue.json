@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "holyerps#2113",
+        "name": "Blue",
+        "version": "1.3.0",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/Catsuq\/Customtheme\/maid\/Blue.json"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1060842029137023017\/1139190402319126608\/NeueRemanSans-Regular.otf"
+    },
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
